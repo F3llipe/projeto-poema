@@ -1,0 +1,48 @@
+@charset "UTF";
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: #D1F5EB;
+    height: 100%;
+    margin: 0px;
+}
+
+header {
+    background-color: #647570;
+    padding :5vh;
+    text-align: center;
+    height: 100%;
+    border: 2px solid black;
+    margin-bottom: 30px;
+}
+header > h1 {
+
+}
+section {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding: 20px;
+    
+}
+section.poema1{
+    background-image: url(imgs/escrever.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fundo{
+    background-color: rgba(0, 0, 0, 0.253);
+    width: 400px;
+}
+
+section.poema3{
+    background-image: url(imgs/coração.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
