@@ -69,17 +69,18 @@ h2 {
     text-align: center;
 }
 p {
-    padding-left: 20px;
+    padding-left: 40px;
 }
 footer > p > a {
     text-decoration: none;
 }
 article {
     margin: auto;
-    padding-right: 20px;
-    background-color: aquamarine;
+    background-color: #68826C;
     max-width: 600px;
     min-width: 400px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
     margin-top: 150px;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px 3px black;
 }
